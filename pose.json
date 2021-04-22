@@ -1,0 +1,96 @@
+{
+  "frame": 1,
+  "bodypoints": [
+    {
+      "part": "nose0",
+      "x": 289.86,
+      "y": 85.95
+    },
+    {
+      "part": "leftEye1",
+      "x": 301.99,
+      "y": 76.62
+    },
+    {
+      "part": "rightEye2",
+      "x": 282.85,
+      "y": 76.35
+    },
+    {
+      "part": "leftEar3",
+      "x": 319.02,
+      "y": 85.41
+    },
+    {
+      "part": "rightEar4",
+      "x": 275.87,
+      "y": 83.96
+    },
+    {
+      "part": "leftShoulder5",
+      "x": 352.14,
+      "y": 133.08
+    },
+    {
+      "part": "rightShoulder6",
+      "x": 274.13,
+      "y": 146.28
+    },
+    {
+      "part": "leftElbow7",
+      "x": 428.34,
+      "y": 158.04
+    },
+    {
+      "part": "rightElbow8",
+      "x": 237.69,
+      "y": 225.04
+    },
+    {
+      "part": "leftWrist9",
+      "x": 483.51,
+      "y": 179.27
+    },
+    {
+      "part": "rightWrist10",
+      "x": 203.8,
+      "y": 262.47
+    },
+    {
+      "part": "leftHip11",
+      "x": 363.53,
+      "y": 268.47
+    },
+    {
+      "part": "rightHip12",
+      "x": 310.59,
+      "y": 277.97
+    },
+    {
+      "part": "leftKnee13",
+      "x": 364.42,
+      "y": 366.52
+    },
+    {
+      "part": "rightKnee14",
+      "x": 303.66,
+      "y": 360.57
+    },
+    {
+      "part": "leftAnkle15",
+      "x": 359.53,
+      "y": 446.74
+    },
+    
+    {
+      "part": "rightAnkle16",
+      "x": 286.73,
+      "y": 447.13
+    },
+    {
+      "part": "vex17",
+      "x": 292,
+      "y": 70
+    }
+  ]
+}
